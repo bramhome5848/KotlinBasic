@@ -7,8 +7,6 @@
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
-    <orderEntry type="library" name="KotlinJavaRuntime" level="project" />
-    <orderEntry type="module" module-name="TestModule" />
-    <orderEntry type="module" module-name="Module" />
+    <orderEntry type="library" name="KotlinJavaRuntime (4)" level="project" />
   </component>
 </module>
